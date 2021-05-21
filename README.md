@@ -4,16 +4,17 @@
 
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Here's a little Info about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Here's My Socials
 
 ```csharp
-string[] ZeptarTeam = new string[] { 
-  "Code : C#, Python", 
-  "Tools : VS, Rider, Docker, Github", 
+string[] ZeptarTeam_Socials = new string[] { 
+  "Discord : Zeptar#7531", 
+  "Tiktok : @zeptardev",
+  "Server : Soon...",
   "Interest : Critical Thinking, Obfuscation, Discord Tools"
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Feel Free to DM me on discord i'll reply to everyone</b> :)</em>
 
 ---
