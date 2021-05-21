@@ -1,8 +1,19 @@
-<h1 align="center">Hi, I'm Zeptar</h1>
-<h3 align="center">I'm a kid that wants to share codes with ppl</h3>
+<h2> Hi, I'm Zeptar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
-<h3 align="center">I Code in:</h3>
-<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
 
-![Zeptar's Stats](https://github-readme-stats.vercel.app/api?username=ZeptarTeam&count_private=true&hide=issues&show_icons=true&theme=dark) ![Zeptar's github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeptarTeam&theme=dark)
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Here's a little Info about me...  
+
+```csharp
+string[] ZeptarTeam = new string[] { 
+  "Code : C#, Python", 
+  "Tools : VS, Rider, Docker, Github", 
+  "Interest : Critical Thinking, Obfuscation, Discord Tools"
+};
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
