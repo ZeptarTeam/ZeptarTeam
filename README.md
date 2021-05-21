@@ -17,4 +17,6 @@ string[] ZeptarTeam_Socials = new string[] {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Feel Free to DM me on discord i'll reply to everyone</b> :)</em>
 
+![](https://komarev.com/ghpvc/?username=ZeptarTeam)
+
 ---
