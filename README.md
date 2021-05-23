@@ -26,6 +26,8 @@ string[] ZeptarTeam_Socials = new string[] {
       <img src="https://img.shields.io/github/stars/ZeptarTeam?color=red&logo=elixir&logoColor=red&style=for-the-badge&cacheSeconds=3600" alt="Stars"/>
     </a>
 
+---
+
 ![](https://komarev.com/ghpvc/?username=ZeptarTeam)
 
 ---
