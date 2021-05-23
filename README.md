@@ -17,6 +17,15 @@ string[] ZeptarTeam_Socials = new string[] {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Feel Free to DM me on discord i'll reply to everyone</b> :)</em>
 
+![Stalkers Counter](https://badges.pufler.dev/visits/ZeptarTeam/ZeptarTeam?style=for-the-badge&color=red&logo=elixir&logoColor=red&label=Stalkers+Counter)
+![Followers:](https://img.shields.io/github/followers/ZeptarTeam?style=for-the-badge&color=red&logo=elixir&logoColor=red)
+<a href="https://github.com/ZeptarTeam?tab=repositories">
+      <img src="https://badges.pufler.dev/repos/owersite?style=for-the-badge&logo=elixir&logoColor=red&color=red&cacheSeconds=3600" alt="Repositories"/>
+    </a>
+    <a href="https://github.com/ZeptarTeam">
+      <img src="https://img.shields.io/github/stars/ZeptarTeam?color=red&logo=elixir&logoColor=red&style=for-the-badge&cacheSeconds=3600" alt="Stars"/>
+    </a>
+
 ![](https://komarev.com/ghpvc/?username=ZeptarTeam)
 
 ---
