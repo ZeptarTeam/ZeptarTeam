@@ -20,7 +20,7 @@ string[] ZeptarTeam_Socials = new string[] {
 ![Stalkers Counter](https://badges.pufler.dev/visits/ZeptarTeam/ZeptarTeam?style=for-the-badge&color=red&logo=elixir&logoColor=red&label=Stalkers+Counter)
 ![Followers:](https://img.shields.io/github/followers/ZeptarTeam?style=for-the-badge&color=red&logo=elixir&logoColor=red)
 <a href="https://github.com/ZeptarTeam?tab=repositories">
-      <img src="https://badges.pufler.dev/repos/owersite?style=for-the-badge&logo=elixir&logoColor=red&color=red&cacheSeconds=3600" alt="Repositories"/>
+      <img src="https://badges.pufler.dev/repos/ZeptarTeam?style=for-the-badge&logo=elixir&logoColor=red&color=red&cacheSeconds=3600" alt="Repositories"/>
     </a>
     <a href="https://github.com/ZeptarTeam">
       <img src="https://img.shields.io/github/stars/ZeptarTeam?color=red&logo=elixir&logoColor=red&style=for-the-badge&cacheSeconds=3600" alt="Stars"/>
