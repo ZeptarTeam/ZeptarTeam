@@ -7,6 +7,9 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Here's My Socials
 
 ```csharp
+const string From = "ZeptarCity";
+string Name = null;
+int Age = null;
 string[] ZeptarTeam_Socials = new string[] { 
   "Discord : Zeptar#7531", 
   "Tiktok : @zeptardev",
