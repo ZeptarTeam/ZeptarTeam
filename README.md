@@ -13,7 +13,7 @@ int Age = null;
 
 string[] ZeptarTeam = new string[] { 
   "idk : i quit", 
-  "Reason : bcz ye ", 
+  "Reason : bcz ye "
   
 };
 ```
