@@ -8,7 +8,7 @@
 
 ```csharp
 const string From = null;
-string Name = null;
+string Name = unknown;
 int Age = null;
 
 string[] ZeptarTeam = new string[] { 
