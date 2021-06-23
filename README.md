@@ -9,11 +9,10 @@
 ```csharp
 const string From = null;
 string Name = null;
-int Age = null;
 
 string[] ZeptarTeam = new string[] { 
-  "idk : i quit", 
-  "Reason : bcz ye "
+  "Server : https://discord.gg/PcwYZUuWkG", 
+  "Tiktok : @zeptardev "
   
 };
 ```
