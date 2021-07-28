@@ -2,6 +2,7 @@
 
 <h1 align="center">I'm Zeptar :)</h1>
 <p align="center">i'm a .NET Reverser/Developer : C#, and a little of Python</p>
+<p align="center">Italian, English, Romanian, German</p>
 <p align="center">Feel free to contact me on discord.</p>
 <a href="https://github.com/ZeptarTeam">
   <p align="center">
@@ -19,5 +20,5 @@
   <br />
   <img src="https://github-profile-trophy.vercel.app/?username=ZeptarTeam&theme=nord&margin-w=15&margin-h=1&column=6" />
 </p>
-<h1 align="center">Italian, English, Romanian, German</h1>
+
 ![Footer](./footer.png)
