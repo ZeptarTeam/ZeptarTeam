@@ -1,7 +1,7 @@
 ![Header](./header.png)
 
-<h1 align="center">Zeptar</h1>
-<p align="center">Developer, I know: C#, and a little of Python</p>
+<h1 align="center">I'm Zeptar :)</h1>
+<p align="center">i'm a .NET Reverser/Developer : C#, and a little of Python</p>
 <a href="https://github.com/ZeptarTeam">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=ZeptarTeam" alt="Profile Views">
