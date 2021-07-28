@@ -1,23 +1,22 @@
-<h2> Hi, I'm Zeptar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+![Header](./header.png)
 
+<h1 align="center">Zeptar</h1>
+<p align="center">Developer, I know: C#, and a little of Python</p>
+<a href="https://github.com/ZeptarTeam">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=ZeptarTeam" alt="Profile Views">
+  </p>
+</a>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=ZeptarTeam&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+</p>
 
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-4/866700997170692167.png" />
+  <br />
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=ZeptarTeam&theme=nord&margin-w=15&margin-h=1&column=6" />
+</p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Here's My Socials
-
-```csharp
-const string From = null;
-string Name = null;
-
-string[] ZeptarTeam = new string[] { 
-  "Server : https://discord.gg/PcwYZUuWkG", 
-  "Tiktok : @zeptardev "
-  
-};
-```
-![](https://komarev.com/ghpvc/?username=ZeptarTeam)
-
----
-
-
+![Footer](./footer.png)
