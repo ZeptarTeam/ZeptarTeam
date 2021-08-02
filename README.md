@@ -1,6 +1,6 @@
 ![Header](./header.png)
 
-<h1 align="center">I'm Zeptar :)</h1>
+<h1 align="center">Hi I'm Zeptar :)</h1>
 <p align="center">i'm a .NET Reverser/Developer : C#, and a little of Python</p>
 <p align="center">Italian, English, Romanian, German</p>
 <a href="https://github.com/ZeptarTeam">
