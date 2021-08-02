@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/866700997170692167.png" />
+  <img src="https://discord.c99.nl/widget/theme-4/8667009971706921671.png" />
   <br />
   <br />
   <img src="https://github-profile-trophy.vercel.app/?username=ZeptarTeam&theme=nord&margin-w=15&margin-h=1&column=6" />
